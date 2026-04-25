@@ -1,0 +1,38 @@
+# Binaries
+plane-mcp
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go coverage
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug log
+/tmp/plane-mcp-debug.log
+
+# Environment files (contain secrets)
+.env
+.env.local
+.env.*.local
+
+# Downloaded dependencies
+vendor/
+
+# Temp files
+*.tmp
+*.bak
+*~
