@@ -144,6 +144,11 @@ The server uses Plane API v1 with `work-items` paths:
 
 See [TESTING.md](TESTING.md) for detailed testing instructions.
 
+## Additional Resources
+
+- [EXAMPLES.md](EXAMPLES.md) — API usage examples
+- [DEBUG.md](DEBUG.md) — Debug mode guide
+
 ## Getting API Key
 
 1. Open Workspace Settings → Members
